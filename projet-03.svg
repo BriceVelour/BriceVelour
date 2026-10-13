@@ -1,13 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 96" width="880" height="96" role="img" aria-label="CÉGEP · Travaux en Java orienté objet, testés avec JUnit.">
 <style>
-.u{font:500 12px ui-monospace,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;letter-spacing:.2em;fill:#d9b469}
-.i{font:500 19px -apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;letter-spacing:.28em;fill:#f5f1e6}
-.d{font:400 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;letter-spacing:.01em;fill:#a9a498}
-.g{font:500 9.5px ui-monospace,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;letter-spacing:.22em;fill:#8a8578}
-.s{font:500 9.5px ui-monospace,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;letter-spacing:.22em;fill:#d9b469}
+.u{font:500 11px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.2em;fill:#6e6c86}
+.h{font:500 16px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.3em;fill:#ecebff}
+.d{font:italic 400 14.5px 'Source Serif 4',Georgia,'Times New Roman',serif;fill:#a5a2c2}
+.a{font:500 9.5px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.22em;fill:#a5a2c2}
+.m{font:500 9.5px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.22em;fill:#6e6c86}
 </style>
-<rect width="880" height="96" rx="12" fill="#07070c"/><rect x=".5" y=".5" width="879" height="95" rx="11.5" fill="none" stroke="#d9b469" stroke-opacity=".17"/>
-<text x="36" y="53" class="u">03</text><rect x="76" y="30" width="1" height="36" fill="#d9b469" opacity=".4"/>
-<text x="100" y="45" class="i">CÉGEP</text><text x="100" y="69" class="d">Travaux en Java orienté objet, testés avec JUnit.</text>
-<text x="844" y="44" text-anchor="end" class="s">PUBLIC</text><text x="844" y="68" text-anchor="end" class="g">JAVA · JUNIT</text>
+<rect width="880" height="96" rx="12" fill="#050508"/><rect x=".5" y=".5" width="879" height="95" rx="11.5" fill="none" stroke="#ecebff" stroke-opacity=".07"/>
+<text x="36" y="52" class="u">03</text><line x1="76.5" y1="30" x2="76.5" y2="66" stroke="#ecebff" stroke-opacity=".16"/>
+
+<text x="100" y="44" class="h">CÉGEP</text><text x="100" y="70" class="d">Travaux en Java orienté objet, testés avec JUnit.</text>
+<circle cx="788.2" cy="39.8" r="2.2" fill="#5ee6a0"/><text x="844" y="43" text-anchor="end" class="a">PUBLIC</text>
+<text x="844" y="68" text-anchor="end" class="m">JAVA · JUNIT</text>
 </svg>

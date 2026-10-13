@@ -1,13 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 96" width="880" height="96" role="img" aria-label="REIZA · Assistante IA personnelle : une voix, une mémoire, des routines.">
 <style>
-.u{font:500 12px ui-monospace,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;letter-spacing:.2em;fill:#d9b469}
-.i{font:500 19px -apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;letter-spacing:.28em;fill:#f5f1e6}
-.d{font:400 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;letter-spacing:.01em;fill:#a9a498}
-.g{font:500 9.5px ui-monospace,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;letter-spacing:.22em;fill:#8a8578}
-.s{font:500 9.5px ui-monospace,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;letter-spacing:.22em;fill:#d9b469}
+.u{font:500 11px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.2em;fill:#6e6c86}
+.h{font:500 16px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.3em;fill:#ecebff}
+.d{font:italic 400 14.5px 'Source Serif 4',Georgia,'Times New Roman',serif;fill:#a5a2c2}
+.a{font:500 9.5px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.22em;fill:#a5a2c2}
+.m{font:500 9.5px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.22em;fill:#6e6c86}
 </style>
-<rect width="880" height="96" rx="12" fill="#07070c"/><rect x=".5" y=".5" width="879" height="95" rx="11.5" fill="none" stroke="#d9b469" stroke-opacity=".17"/>
-<text x="36" y="53" class="u">01</text><rect x="76" y="30" width="1" height="36" fill="#d9b469" opacity=".4"/>
-<text x="100" y="45" class="i">REIZA</text><text x="100" y="69" class="d">Assistante IA personnelle : une voix, une mémoire, des routines.</text>
-<text x="844" y="44" text-anchor="end" class="s">PRIVÉ</text><text x="844" y="68" text-anchor="end" class="g">BÂTIE AVEC CLAUDE</text>
+<rect width="880" height="96" rx="12" fill="#050508"/><rect x=".5" y=".5" width="879" height="95" rx="11.5" fill="none" stroke="#ecebff" stroke-opacity=".07"/>
+<text x="36" y="52" class="u">01</text><line x1="76.5" y1="30" x2="76.5" y2="66" stroke="#ecebff" stroke-opacity=".16"/>
+<g transform="translate(97 25) scale(.098)"><g fill="none" stroke="#d6d4ea" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"><path d="M 81 211 L 81 83 C 81 78 77 74.5 72 73 L 31 58 L 75 70 C 79 65 85 59.5 95 58.5 C 105 57.5 115 59.5 125 63 C 147 69 162 87 162 107 C 162 127 145 141 119 142 C 105 142.5 89 140 83 138.5 C 105 153 139 181 167 211"/></g><path fill="#d6d4ea" d="M 140 47 C 158 43 182 34 198 30 C 184 43 164 56 148 64 C 142 67 134 66 131.5 60 C 129.5 53 133 48 140 47 Z"/></g>
+<text x="132" y="44" class="h">REIZA</text><text x="100" y="70" class="d">Assistante IA personnelle : une voix, une mémoire, des routines.</text>
+<circle cx="796" cy="39.8" r="2.2" fill="#6e6c86"/><text x="844" y="43" text-anchor="end" class="a">PRIVÉ</text>
+<text x="844" y="68" text-anchor="end" class="m">BÂTIE AVEC CLAUDE</text>
 </svg>
