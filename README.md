@@ -1,4 +1,4 @@
-### Salut, moi c'est Brice 👋
+### Salut, moi c'est YANNICK BRICE 👋
 Made in Canada 🇨🇦 · Marchés, code & café ☕
 
 🎓 Étudiant en **développement d'applications web et mobiles** au Cégep de Sorel-Tracy
