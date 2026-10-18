@@ -8,7 +8,7 @@
 </style>
 <rect width="880" height="96" rx="12" fill="#050508"/><rect x=".5" y=".5" width="879" height="95" rx="11.5" fill="none" stroke="#ecebff" stroke-opacity=".07"/>
 <text x="36" y="52" class="u">01</text><line x1="76.5" y1="30" x2="76.5" y2="66" stroke="#ecebff" stroke-opacity=".16"/>
-<g transform="translate(97 25) scale(.098)"><g fill="none" stroke="#d6d4ea" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"><path d="M 81 211 L 81 83 C 81 78 77 74.5 72 73 L 31 58 L 75 70 C 79 65 85 59.5 95 58.5 C 105 57.5 115 59.5 125 63 C 147 69 162 87 162 107 C 162 127 145 141 119 142 C 105 142.5 89 140 83 138.5 C 105 153 139 181 167 211"/></g><path fill="#d6d4ea" d="M 140 47 C 158 43 182 34 198 30 C 184 43 164 56 148 64 C 142 67 134 66 131.5 60 C 129.5 53 133 48 140 47 Z"/></g>
+<g transform="translate(101 25) scale(.098)"><g fill="none" stroke="#d6d4ea" stroke-width="15" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="4"><path d="M79 20 V222"/><path d="M79 42 L153 86 L79 130"/><path d="M79 130 L161 222"/><path d="M79 42 L121 16" stroke-width="12.3"/></g></g>
 <text x="132" y="44" class="h">REIZA</text><text x="100" y="70" class="d">Assistante IA personnelle : une voix, une mémoire, des routines.</text>
 <circle cx="796" cy="39.8" r="2.2" fill="#6e6c86"/><text x="844" y="43" text-anchor="end" class="a">PRIVÉ</text>
 <text x="844" y="68" text-anchor="end" class="m">BÂTIE AVEC CLAUDE</text>
