@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 96" width="880" height="96" role="img" aria-label="CÉGEP · Travaux en Java orienté objet, testés avec JUnit.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 96" width="880" height="96" role="img" aria-label="CÉGEP · Onze cours depuis 2024 : Java, C, web, bases de données, IoT.">
 <style>
 .u{font:500 11px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.2em;fill:#6e6c86}
 .h{font:500 16px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.3em;fill:#ecebff}
@@ -9,7 +9,7 @@
 <rect width="880" height="96" rx="12" fill="#050508"/><rect x=".5" y=".5" width="879" height="95" rx="11.5" fill="none" stroke="#ecebff" stroke-opacity=".07"/>
 <text x="36" y="52" class="u">03</text><line x1="76.5" y1="30" x2="76.5" y2="66" stroke="#ecebff" stroke-opacity=".16"/>
 
-<text x="100" y="44" class="h">CÉGEP</text><text x="100" y="70" class="d">Travaux en Java orienté objet, testés avec JUnit.</text>
+<text x="100" y="44" class="h">CÉGEP</text><text x="100" y="70" class="d">Onze cours depuis 2024 : Java, C, web, bases de données, IoT.</text>
 <circle cx="788.2" cy="39.8" r="2.2" fill="#5ee6a0"/><text x="844" y="43" text-anchor="end" class="a">PUBLIC</text>
-<text x="844" y="68" text-anchor="end" class="m">JAVA · JUNIT</text>
+<text x="844" y="68" text-anchor="end" class="m">JAVA · C · WEB · SQL · IOT</text>
 </svg>
