@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 96" width="880" height="96" role="img" aria-label="03 · CÉGEP · Onze cours depuis 2024 : Java, C, web, bases de données, IoT.">
 <defs><clipPath id="c"><path d="M0 0 H866 L880 14 V96 H0 Z"/></clipPath>
-<linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ecebff" stop-opacity="0"/><stop offset=".5" stop-color="#ecebff" stop-opacity=".06"/><stop offset="1" stop-color="#ecebff" stop-opacity="0"/></linearGradient></defs>
+<linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4d7cff" stop-opacity="0"/><stop offset=".5" stop-color="#4d7cff" stop-opacity=".06"/><stop offset="1" stop-color="#4d7cff" stop-opacity="0"/></linearGradient></defs>
 <style>
 @keyframes trace{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
 @keyframes monte{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
@@ -10,11 +10,11 @@
 .o{opacity:0;animation:monte .9s ease-out forwards}
 .b{animation:bat 3s ease-in-out infinite}
 @media (prefers-reduced-motion:reduce){.w,.o,.b,.sc,.r{animation:none!important;stroke-dashoffset:0;opacity:1;transform:none}.sc{opacity:0}}
-.u{font:500 11px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.2em;fill:#8f8da8}
+.u{font:500 11px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.2em;fill:#4d7cff}
 .h{font:600 15px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.38em;fill:#ecebff}
 .hs{font:500 10px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.3em;fill:#8f8da8}
 .d{font:italic 400 14.5px 'Source Serif 4',Georgia,'Times New Roman',serif;fill:#b9b7d0}
-.a{font:600 9.5px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.24em;fill:#ecebff}
+.a{font:600 9.5px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.24em;fill:#4d7cff}
 .m{font:500 9.5px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.22em;fill:#8f8da8}
 .bar{transform:scaleY(0);transform-origin:0 0;animation:pousse .8s ease-out 1.00s forwards}
 @keyframes pousse{to{transform:scaleY(1)}}
@@ -23,12 +23,12 @@
 <g clip-path="url(#c)"><rect width="880" height="96" fill="#04050a"/>
 <rect class="sc" x="0" y="0" width="880" height="26" fill="url(#s)"/>
 </g>
-<path d="M0.5 0.5 H865.5 L879.5 14.5 V95.5 H0.5 Z" fill="none" stroke="#ecebff" stroke-opacity=".18"/>
-<path class="w" pathLength="1" d="M0.5 0.5 H865.5 L879.5 14.5 V95.5 H0.5 Z" fill="none" stroke="#ecebff" stroke-opacity=".32" style="animation-delay:1.00s;animation-duration:1.8s"/>
-<g class="o" style="animation-delay:1.00s"><text x="36" y="52" class="u">03</text><line x1="76.5" y1="30" x2="76.5" y2="66" stroke="#ecebff" stroke-opacity=".2"/></g>
+<path d="M0.5 0.5 H865.5 L879.5 14.5 V95.5 H0.5 Z" fill="none" stroke="#4d7cff" stroke-opacity=".3"/>
+<path class="w" pathLength="1" d="M0.5 0.5 H865.5 L879.5 14.5 V95.5 H0.5 Z" fill="none" stroke="#4d7cff" stroke-opacity=".85" style="animation-delay:1.00s;animation-duration:1.8s"/>
+<g class="o" style="animation-delay:1.00s"><text x="36" y="52" class="u">03</text><line x1="76.5" y1="30" x2="76.5" y2="66" stroke="#4d7cff" stroke-opacity=".35"/></g>
 
 <g class="o" style="animation-delay:1.25s"><text x="100" y="44" class="h">CÉGEP</text>
 <text x="100" y="70" class="d">Onze cours depuis 2024 : Java, C, web, bases de données, IoT.</text></g>
-<g class="o" style="animation-delay:1.45s"><circle class="b" cx="783.6" cy="39.8" r="2.6" fill="#ecebff" stroke="#ecebff" stroke-opacity="1"/><text x="844" y="43" text-anchor="end" class="a">PUBLIC</text>
+<g class="o" style="animation-delay:1.45s"><circle class="b" cx="783.6" cy="39.8" r="2.6" fill="#4d7cff" stroke="#4d7cff" stroke-opacity="1"/><text x="844" y="43" text-anchor="end" class="a">PUBLIC</text>
 <text x="844" y="68" text-anchor="end" class="m">JAVA · C · WEB · SQL · IOT</text></g>
 </svg>

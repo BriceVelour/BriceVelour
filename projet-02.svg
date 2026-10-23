@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 96" width="880" height="96" role="img" aria-label="02 · VELOUR · Laboratoire d'analyse des marchés et indicateur maison.">
 <defs><clipPath id="c"><path d="M0 0 H866 L880 14 V96 H0 Z"/></clipPath>
-<linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ecebff" stop-opacity="0"/><stop offset=".5" stop-color="#ecebff" stop-opacity=".06"/><stop offset="1" stop-color="#ecebff" stop-opacity="0"/></linearGradient></defs>
+<linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00e6a0" stop-opacity="0"/><stop offset=".5" stop-color="#00e6a0" stop-opacity=".06"/><stop offset="1" stop-color="#00e6a0" stop-opacity="0"/></linearGradient></defs>
 <style>
 @keyframes trace{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
 @keyframes monte{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
@@ -10,11 +10,11 @@
 .o{opacity:0;animation:monte .9s ease-out forwards}
 .b{animation:bat 3s ease-in-out infinite}
 @media (prefers-reduced-motion:reduce){.w,.o,.b,.sc,.r{animation:none!important;stroke-dashoffset:0;opacity:1;transform:none}.sc{opacity:0}}
-.u{font:500 11px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.2em;fill:#8f8da8}
+.u{font:500 11px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.2em;fill:#00e6a0}
 .h{font:600 15px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.38em;fill:#ecebff}
 .hs{font:500 10px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.3em;fill:#8f8da8}
 .d{font:italic 400 14.5px 'Source Serif 4',Georgia,'Times New Roman',serif;fill:#b9b7d0}
-.a{font:600 9.5px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.24em;fill:#ecebff}
+.a{font:600 9.5px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.24em;fill:#00e6a0}
 .m{font:500 9.5px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.22em;fill:#8f8da8}
 .bar{transform:scaleY(0);transform-origin:0 0;animation:pousse .8s ease-out 0.65s forwards}
 @keyframes pousse{to{transform:scaleY(1)}}
@@ -23,12 +23,12 @@
 <g clip-path="url(#c)"><rect width="880" height="96" fill="#04050a"/>
 <rect class="sc" x="0" y="0" width="880" height="26" fill="url(#s)"/>
 </g>
-<path d="M0.5 0.5 H865.5 L879.5 14.5 V95.5 H0.5 Z" fill="none" stroke="#ecebff" stroke-opacity=".18"/>
-<path class="w" pathLength="1" d="M0.5 0.5 H865.5 L879.5 14.5 V95.5 H0.5 Z" fill="none" stroke="#ecebff" stroke-opacity=".32" style="animation-delay:0.65s;animation-duration:1.8s"/>
-<g class="o" style="animation-delay:0.65s"><text x="36" y="52" class="u">02</text><line x1="76.5" y1="30" x2="76.5" y2="66" stroke="#ecebff" stroke-opacity=".2"/></g>
+<path d="M0.5 0.5 H865.5 L879.5 14.5 V95.5 H0.5 Z" fill="none" stroke="#00e6a0" stroke-opacity=".3"/>
+<path class="w" pathLength="1" d="M0.5 0.5 H865.5 L879.5 14.5 V95.5 H0.5 Z" fill="none" stroke="#00e6a0" stroke-opacity=".85" style="animation-delay:0.65s;animation-duration:1.8s"/>
+<g class="o" style="animation-delay:0.65s"><text x="36" y="52" class="u">02</text><line x1="76.5" y1="30" x2="76.5" y2="66" stroke="#00e6a0" stroke-opacity=".35"/></g>
 
 <g class="o" style="animation-delay:0.90s"><text x="100" y="44" class="h">VELOUR</text>
 <text x="100" y="70" class="d">Laboratoire d'analyse des marchés et indicateur maison.</text></g>
-<g class="o" style="animation-delay:1.10s"><circle cx="792" cy="39.8" r="2.6" fill="none" stroke="#ecebff" stroke-opacity="0.6"/><text x="844" y="43" text-anchor="end" class="a">PRIVÉ</text>
+<g class="o" style="animation-delay:1.10s"><circle cx="792" cy="39.8" r="2.6" fill="none" stroke="#00e6a0" stroke-opacity="0.6"/><text x="844" y="43" text-anchor="end" class="a">PRIVÉ</text>
 <text x="844" y="68" text-anchor="end" class="m">PINE SCRIPT · JAVASCRIPT</text></g>
 </svg>
