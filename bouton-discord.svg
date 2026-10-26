@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 72" width="880" height="72" role="img" aria-label="Envie de discuter ? Écris-moi sur Discord">
 <defs><clipPath id="c"><path d="M0 0 H864 L880 16 V72 H0 Z"/></clipPath>
-<radialGradient id="g" cx="8%" cy="50%" r="40%"><stop offset="0" stop-color="#ff2d9a" stop-opacity=".22"/><stop offset="1" stop-color="#5865f2" stop-opacity="0"/></radialGradient><radialGradient id="mg" cx="0%" cy="0%" r="75%"><stop offset="0" stop-color="#ff2d9a" stop-opacity=".95"/><stop offset=".45" stop-color="#c0207a" stop-opacity=".6"/><stop offset="1" stop-color="#c0207a" stop-opacity="0"/></radialGradient><radialGradient id="ombre" cx="50%" cy="50%" r="70%"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".35"/></radialGradient></defs>
+<radialGradient id="g" cx="8%" cy="50%" r="40%"><stop offset="0" stop-color="#5865f2" stop-opacity=".35"/><stop offset="1" stop-color="#5865f2" stop-opacity="0"/></radialGradient><radialGradient id="mg" cx="0%" cy="0%" r="75%"><stop offset="0" stop-color="#5865f2" stop-opacity=".95"/><stop offset=".45" stop-color="#4752c4" stop-opacity=".6"/><stop offset="1" stop-color="#4752c4" stop-opacity="0"/></radialGradient><radialGradient id="ombre" cx="50%" cy="50%" r="70%"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".35"/></radialGradient></defs>
 <style>
 @keyframes trace{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
 @keyframes monte{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
@@ -15,8 +15,8 @@
 .k{font:500 9px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.3em;fill:#8f8da8}
 </style>
 <g clip-path="url(#c)"><rect width="880" height="72" fill="#04050a"/><rect class="s" width="880" height="72" fill="url(#g)"/></g>
-<path d="M0.5 0.5 H863.5 L879.5 16.5 V71.5 H0.5 Z" fill="none" stroke="#ff2d9a" stroke-opacity=".35"/>
-<path class="w" pathLength="1" d="M0.5 0.5 H863.5 L879.5 16.5 V71.5 H0.5 Z" fill="none" stroke="#ff2d9a" stroke-opacity=".9"/>
+<path d="M0.5 0.5 H863.5 L879.5 16.5 V71.5 H0.5 Z" fill="none" stroke="#5865f2" stroke-opacity=".35"/>
+<path class="w" pathLength="1" d="M0.5 0.5 H863.5 L879.5 16.5 V71.5 H0.5 Z" fill="none" stroke="#5865f2" stroke-opacity=".9"/>
 <g transform="translate(18 8)">
 <clipPath id="ic"><rect width="56" height="56" rx="13"/></clipPath>
 <g clip-path="url(#ic)"><rect width="56" height="56" fill="#d9d6e2"/>
@@ -24,7 +24,7 @@
 <rect width="56" height="56" fill="url(#mg)"/><rect width="56" height="56" fill="url(#ombre)"/></g>
 <rect x=".5" y=".5" width="55" height="55" rx="12.5" fill="none" stroke="#ffffff" stroke-opacity=".18"/>
 <g transform="translate(28 30) scale(.95)"><path d="M-17 -11 Q-9 -15 -5 -14 L-3 -11 Q0 -11.6 3 -11 L5 -14 Q9 -15 17 -11 Q22 -2 21 10 Q15 15 10 15 L7.5 10.5 Q0 12.5 -7.5 10.5 L-10 15 Q-15 15 -21 10 Q-22 -2 -17 -11 Z" fill="#ffffff"/>
-<ellipse cx="-7" cy="1" rx="3.1" ry="3.5" fill="#3a1030"/><ellipse cx="7" cy="1" rx="3.1" ry="3.5" fill="#3a1030"/></g></g>
+<ellipse cx="-7" cy="1" rx="3.1" ry="3.5" fill="#141a4a"/><ellipse cx="7" cy="1" rx="3.1" ry="3.5" fill="#141a4a"/></g></g>
 <g class="o"><text x="92" y="34" class="t">ENVIE DE DISCUTER ?</text><text x="92" y="52" class="k">MARCHÉS, CODE OU IA · @BRICEVELOUR</text></g>
-<g class="o"><text x="800" y="41" text-anchor="end" class="t" style="fill:#ff5fb8">MON PROFIL</text><path class="f" d="M814 30 L824 36 L814 42" fill="none" stroke="#ff2d9a" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="o"><text x="800" y="41" text-anchor="end" class="t" style="fill:#5865f2">MON PROFIL</text><path class="f" d="M814 30 L824 36 L814 42" fill="none" stroke="#5865f2" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></g>
 </svg>
