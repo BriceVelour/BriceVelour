@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 76" width="880" height="76" role="img" aria-label="01 · REIZA. Une assistante IA, bâtie avec Claude. PRIVÉ">
+<defs><clipPath id="c"><path d="M0 0 H866 L880 14 V76 H0 Z"/></clipPath>
+<linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9b6bff" stop-opacity=".38"/><stop offset=".7" stop-color="#9b6bff" stop-opacity=".08"/><stop offset="1" stop-color="#9b6bff" stop-opacity="0"/></linearGradient></defs><style>
+@keyframes trace{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes monte{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@keyframes souffle{0%,100%{opacity:.5}50%{opacity:1}}
+@keyframes sel{0%{opacity:0}3%,22%{opacity:1}26%,100%{opacity:0}}
+@keyframes repos{0%{opacity:.22}3%,22%{opacity:0}26%,100%{opacity:.22}}
+@keyframes va{0%,100%{transform:translateX(0)}50%{transform:translateX(4px)}}
+.w{stroke-dasharray:1;stroke-dashoffset:1;animation:trace 1.4s cubic-bezier(.5,0,.2,1) forwards}
+.o{opacity:0;animation:monte .8s ease-out forwards}
+.s{animation:souffle 5s ease-in-out infinite}
+.sel{opacity:0;animation:sel 8s ease-in-out infinite}
+.rep{opacity:.22;animation:repos 8s ease-in-out infinite}
+.f{animation:va 1.6s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){.w,.o,.s,.f{animation:none!important;stroke-dashoffset:0;opacity:1;transform:none}.rep{animation:none!important;opacity:.6}.sel{animation:none!important;opacity:0}}
+.t{font:700 44px 'Source Serif 4',Georgia,'Times New Roman',serif;letter-spacing:.12em;fill:#ecebff}
+.m{font:600 12px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.34em;fill:#8f8da8}
+.k{font:500 10px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.3em;fill:#8f8da8}
+.n{font:600 13px ui-monospace,Menlo,'SF Mono',Consolas,'Liberation Mono',monospace;letter-spacing:.3em;fill:#8f8da8}
+.e{font:700 22px 'Source Serif 4',Georgia,'Times New Roman',serif;letter-spacing:.16em;fill:#ecebff}
+.d{font:400 14px 'Source Serif 4',Georgia,'Times New Roman',serif;fill:#b9b7d0}
+</style>
+<g clip-path="url(#c)"><rect width="880" height="76" fill="#04050a"/>
+<rect class="sel" width="880" height="76" fill="url(#b)" style="animation-delay:0s"/></g>
+<path d="M0.5 0.5 H865.5 L879.5 14.5 V75.5 H0.5 Z" fill="none" stroke="#1f2850"/>
+<path class="sel" d="M0.5 0.5 H865.5 L879.5 14.5 V75.5 H0.5 Z" fill="none" stroke="#9b6bff" stroke-width="1.5" style="animation-delay:0s"/>
+<g class="sel" style="animation-delay:0s"><path class="f" d="M18 30 L28 38 L18 46" fill="none" stroke="#9b6bff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="o" style="animation-delay:0.4s">
+<text class="n" x="44" y="44">01</text>
+<text class="e" x="96" y="46">REIZA</text>
+<text class="d" x="260" y="44">Une assistante IA, bâtie avec Claude.</text>
+<text class="k" x="770" y="42" text-anchor="end" style="fill:#9b6bff">PRIVÉ</text></g>
+<g transform="translate(824 38)"><g class="rep" style="animation-delay:0s"><g transform="scale(.2) translate(-120 -120)" fill="none" stroke="#9b6bff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><path d="M79 20 V222"/><path d="M79 42 L153 86 L79 130"/><path d="M79 130 L161 222"/><path d="M79 42 L121 16"/></g></g></g>
+<g transform="translate(824 38)"><g class="sel" style="animation-delay:0s"><g transform="scale(.2) translate(-120 -120)" fill="none" stroke="#9b6bff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><path d="M79 20 V222"/><path d="M79 42 L153 86 L79 130"/><path d="M79 130 L161 222"/><path d="M79 42 L121 16"/></g></g></g>
+</svg>
