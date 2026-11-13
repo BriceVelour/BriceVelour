@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="nuee-titre.svg" width="100%" alt="Développeur en formation. Je construis en apprenant. Web, mobile, marchés et IA.">
+  <img src="nuee-titre.svg" width="100%" alt="Développeur en formation. Je construis en apprenant. Web, mobile, investisseur BTC et IA.">
 </p>
 <p align="center">
   <img src="nuee-carte-reiza.svg" width="49%" alt="01. REIZA. Une IA, bâtie avec Claude. Privé.">
