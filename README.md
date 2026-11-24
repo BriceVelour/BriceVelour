@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="nuee-titre.svg" width="100%" alt="Développeur en formation. Je construis en apprenant. Web, mobile, investisseur BTC et IA. Mes outils : Claude, GitHub, TradingView, Blender, Obsidian, Three.js, VS Code, IntelliJ, Xcode, Swift, Node.js, Python.">
+  <img src="nuee-titre.svg" width="100%" alt="Je construis en apprenant. Mes outils : Claude, GitHub, TradingView, Blender, Obsidian, Three.js, VS Code, IntelliJ, Xcode, Swift, Node.js, Python.">
 </p>
 <p align="center">
   <img src="nuee-carte-reiza.svg" width="49%" alt="01. REIZA. Une IA, bâtie avec Claude. Privé.">
